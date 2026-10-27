@@ -36,9 +36,8 @@ I will become absolute evil.»
 
 9e | MY ANIME WORLD
 
-<img
-src="https://media.giphy.com/media/11kz0et1E1BDz2/giphy.gif" width="220"/>
-
+<p align="center"><img src="./Messenger_creation_FB024CA3-C8A0-4E0A-BD63-D9C32F364E2D.jpeg" width="1000%">
+</p>
 «「この世界のどこかで、また会おう。」
 
 Somewhere in this world, we'll meet again.»
