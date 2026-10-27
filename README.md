@@ -8,8 +8,11 @@ THE HERO HUNTER
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 01 — MY FAVORITE MONSTER
+
 02 — ABSOLUTE JUSTICE?
+
 03 — THE LONE WOLF
+
 04 — BLUE NIGHT ARCHIVE
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -20,10 +23,15 @@ THE HERO HUNTER
 «"Hero or monster? I don't need either name."»
 
 character: Garou
+
 anime: One Punch Man
+
 alias: Hero Hunter
+
 aesthetic: blue / black / silver
+
 vibe: dangerous, wild, relentless
+
 favorite: GAROU ♡
 
 9e  THE MONSTER WITHIN
@@ -54,7 +62,8 @@ Somewhere in this world, we'll meet again.»
 <img src="https://img.shields.io/badge/✧-DAYDREAMING-075985?style=flat-square"/><br/>
 ┌─────────────────┐
             静かな夜、青い光、遠い夢。
-            A quiet night. A distant dream.
+            
+ A quiet night. A distant dream.
 └─────────────────────────┘
 
 9e | FIND ME
