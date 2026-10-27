@@ -58,3 +58,6 @@ Somewhere in this world, we'll meet again.»
 └─────────────────────────┘
 
 9e | FIND ME
+
+<p align="center"><img src="./Messenger_creation_C2258468-B293-47D0-8D8B-9E461510D9A6.gif" width="1000%" alt="GIF Banner">
+</p>
