@@ -1,16 +1,56 @@
-## Hi there 👋
+<div align="center">
+─────「怪人」─────
 
-<!--
-**jilay65x/jilay65x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GAROU / ガロウ
 
-Here are some ideas to get you started:
+THE HERO HUNTER
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+01 — MY FAVORITE MONSTER
+02 — ABSOLUTE JUSTICE?
+03 — THE LONE WOLF
+04 — BLUE NIGHT ARCHIVE
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+9e  ABOUT MY BIAS
+
+«"Hero or monster? I don't need either name."»
+
+character: Garou
+anime: One Punch Man
+alias: Hero Hunter
+aesthetic: blue / black / silver
+vibe: dangerous, wild, relentless
+favorite: GAROU ♡
+
+9e  THE MONSTER WITHIN
+
+<img src="./garou2.png" width="240" alt="Garou monster form"/>«「俺は絶対悪になる。」
+
+I will become absolute evil.»
+
+9e | MY ANIME WORLD
+
+<img
+src="https://media.giphy.com/media/11kz0et1E1BDz2/giphy.gif" width="220"/>
+
+«「この世界のどこかで、また会おう。」
+
+Somewhere in this world, we'll meet again.»
+
+"ANIME"  —  "MANGA"  —  "ART"  —  "MUSIC"
+
+9e | CURRENT MOOD
+
+<img src="https://img.shields.io/badge/-MIDNIGHT-07111F?style=flat-square"/>
+<img src="https://img.shields.io/badge/❄️-COLD_BLUE-102A43?style=flat-square"/>
+<img src="https://img.shields.io/badge/✧-DAYDREAMING-075985?style=flat-square"/><br/>
+┌─────────────────┐
+            静かな夜、青い光、遠い夢。
+            A quiet night. A distant dream.
+└─────────────────────────┘
+
+9e | FIND ME
