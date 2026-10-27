@@ -44,6 +44,9 @@ Somewhere in this world, we'll meet again.»
 
 "ANIME"  —  "MANGA"  —  "ART"  —  "MUSIC"
 
+<p align="center"><img src="./Messenger_creation_E547C90F-A726-4117-ACAB-0266D2E0671A.png" width="100%" alt="Banner">
+</p>
+
 9e | CURRENT MOOD
 
 <img src="https://img.shields.io/badge/-MIDNIGHT-07111F?style=flat-square"/>
