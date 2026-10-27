@@ -28,7 +28,9 @@ favorite: GAROU ♡
 
 9e  THE MONSTER WITHIN
 
-<img src="./garou2.png" width="240" alt="Garou monster form"/>«「俺は絶対悪になる。」
+<p align="center"><img src="./Messenger_creation_DB44DEB8-8B2F-469B-A2D1-FDC49496884B.jpeg" width="100%">
+</p>
+«「俺は絶対悪になる。」
 
 I will become absolute evil.»
 
